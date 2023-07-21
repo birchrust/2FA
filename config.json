@@ -1,0 +1,240 @@
+{
+    "config": [
+        {
+            "name": "title",
+            "options": [
+                {
+                    "type": "text",
+                    "key": "title",
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "name": "description",
+            "options": [
+                {
+                    "type": "text",
+                    "key": "description",
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "name": "authentication1",
+            "options": [
+                {
+                    "type": "text",
+                    "key": "authenticationName1",
+                    "value": "",
+                    "placeholder": "Enter the name"
+                },
+                {
+                    "type": "text",
+                    "key": "secret1",
+                    "value": "",
+                    "placeholder": "Enter the secret"
+                }
+            ],
+            "tag": "Authentications"
+        },
+        {
+            "name": "authentication2",
+            "options": [
+                {
+                    "type": "text",
+                    "key": "authenticationName2",
+                    "value": "",
+                    "placeholder": "Enter the name"
+                },
+                {
+                    "type": "text",
+                    "key": "secret2",
+                    "value": "",
+                    "placeholder": "Enter the secret"
+                }
+            ],
+            "tag": "Authentications"
+        },
+        {
+            "name": "authentication3",
+            "options": [
+                {
+                    "type": "text",
+                    "key": "authenticationName3",
+                    "value": "",
+                    "placeholder": "Enter the name"
+                },
+                {
+                    "type": "text",
+                    "key": "secret3",
+                    "value": "",
+                    "placeholder": "Enter the secret"
+                }
+            ],
+            "tag": "Authentications"
+        },
+        {
+            "name": "authentication4",
+            "options": [
+                {
+                    "type": "text",
+                    "key": "authenticationName4",
+                    "value": "",
+                    "placeholder": "Enter the name"
+                },
+                {
+                    "type": "text",
+                    "key": "secret4",
+                    "value": "",
+                    "placeholder": "Enter the secret"
+                }
+            ],
+            "tag": "Authentications"
+        },
+        {
+            "name": "authentication5",
+            "options": [
+                {
+                    "type": "text",
+                    "key": "authenticationName5",
+                    "value": "",
+                    "placeholder": "Enter the name"
+                },
+                {
+                    "type": "text",
+                    "key": "secret5",
+                    "value": "",
+                    "placeholder": "Enter the secret"
+                }
+            ],
+            "tag": "Authentications"
+        },
+        {
+            "name": "authentication6",
+            "options": [
+                {
+                    "type": "text",
+                    "key": "authenticationName6",
+                    "value": "",
+                    "placeholder": "Enter the name"
+                },
+                {
+                    "type": "text",
+                    "key": "secret6",
+                    "value": "",
+                    "placeholder": "Enter the secret"
+                }
+            ],
+            "tag": "Authentications"
+        },
+        {
+            "name": "authentication7",
+            "options": [
+                {
+                    "type": "text",
+                    "key": "authenticationName7",
+                    "value": "",
+                    "placeholder": "Enter the name"
+                },
+                {
+                    "type": "text",
+                    "key": "secret7",
+                    "value": "",
+                    "placeholder": "Enter the secret"
+                }
+            ],
+            "tag": "Authentications"
+        },
+        {
+            "name": "authentication8",
+            "options": [
+                {
+                    "type": "text",
+                    "key": "authenticationName8",
+                    "value": "",
+                    "placeholder": "Enter the name"
+                },
+                {
+                    "type": "text",
+                    "key": "secret8",
+                    "value": "",
+                    "placeholder": "Enter the secret"
+                }
+            ],
+            "tag": "Authentications"
+        },
+        {
+            "name": "authentication9",
+            "options": [
+                {
+                    "type": "text",
+                    "key": "authenticationName9",
+                    "value": "",
+                    "placeholder": "Enter the name"
+                },
+                {
+                    "type": "text",
+                    "key": "secret9",
+                    "value": "",
+                    "placeholder": "Enter the secret"
+                }
+            ],
+            "tag": "Authentications"
+        },
+        {
+            "name": "authentication10",
+            "options": [
+                {
+                    "type": "text",
+                    "key": "authenticationName10",
+                    "value": "",
+                    "placeholder": "Enter the name"
+                },
+                {
+                    "type": "text",
+                    "key": "secret10",
+                    "value": "",
+                    "placeholder": "Enter the secret"
+                }
+            ],
+            "tag": "Authentications"
+        },
+        {
+            "name": "authentication11",
+            "options": [
+                {
+                    "type": "text",
+                    "key": "authenticationName11",
+                    "value": "",
+                    "placeholder": "Enter the name"
+                },
+                {
+                    "type": "text",
+                    "key": "secret11",
+                    "value": "",
+                    "placeholder": "Enter the secret"
+                }
+            ],
+            "tag": "Authentications"
+        },
+        {
+            "name": "authentication12",
+            "options": [
+                {
+                    "type": "text",
+                    "key": "authenticationName12",
+                    "value": "",
+                    "placeholder": "Enter the name"
+                },
+                {
+                    "type": "text",
+                    "key": "secret12",
+                    "value": "",
+                    "placeholder": "Enter the secret"
+                }
+            ],
+            "tag": "Authentications"
+        }
+    ]
+}
